@@ -26,7 +26,7 @@ A desktop application designed for managing patient and appointment records, bui
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [Your Repository URL]
+    git clone https://github.com/the-teo/JavaFX-Dentist-Appointment-Manager
     ```
 2.  **Dependencies:** Ensure you have the JavaFX SDK and the required JAXB/Gson JARs attached to your project module (as defined in `module-info.java`).
 3.  **Run:** Execute the `main.MainApplication` class.
