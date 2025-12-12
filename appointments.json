@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "patientId": 1,
+    "date": "10.10.2025",
+    "time": "10.10",
+    "status": "Confirmed",
+    "description": "Severe Tooth Ache, emergency consultation."
+  },
+  {
+    "id": 2,
+    "patientId": 101,
+    "date": "25.10.2025",
+    "time": "14.30",
+    "status": "Confirmed",
+    "description": "Routine dental cleaning and check-up."
+  },
+  {
+    "id": 3,
+    "patientId": 102,
+    "date": "05.11.2025",
+    "time": "09.00",
+    "status": "Pending",
+    "description": "Consultation for wisdom tooth extraction."
+  },
+  {
+    "id": 4,
+    "patientId": 2,
+    "date": "01.12.2025",
+    "time": "16.45",
+    "status": "Cancelled",
+    "description": "Braces follow-up appointment."
+  },
+  {
+    "id": 5,
+    "patientId": 103,
+    "date": "15.09.2025",
+    "time": "11.00",
+    "status": "Completed",
+    "description": "Root canal procedure on lower molar."
+  },
+  {
+    "id": 6,
+    "patientId": 104,
+    "date": "01.01.2026",
+    "time": "10.00",
+    "status": "Confirmed",
+    "description": "Initial aesthetic dentistry consultation."
+  }
+]

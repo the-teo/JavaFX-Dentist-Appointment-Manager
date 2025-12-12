@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<appointments>
+    <Appointment>
+        <id>1</id>
+        <patientId>1</patientId>
+        <date>10.10.2025</date>
+        <time>10.10</time>
+        <status>Confirmed</status>
+        <description>Severe Tooth Ache, emergency consultation.</description>
+    </Appointment>
+    <Appointment>
+        <id>2</id>
+        <patientId>101</patientId>
+        <date>25.10.2025</date>
+        <time>14.30</time>
+        <status>Confirmed</status>
+        <description>Routine dental cleaning and check-up.</description>
+    </Appointment>
+    <Appointment>
+        <id>3</id>
+        <patientId>102</patientId>
+        <date>05.11.2025</date>
+        <time>09.00</time>
+        <status>Pending</status>
+        <description>Consultation for wisdom tooth extraction.</description>
+    </Appointment>
+    <Appointment>
+        <id>4</id>
+        <patientId>102</patientId>
+        <date>01.12.2025</date>
+        <time>16.45</time>
+        <status>Cancelled</status>
+        <description>Braces follow-up appointment.</description>
+    </Appointment>
+    <Appointment>
+        <id>5</id>
+        <patientId>103</patientId>
+        <date>15.09.2025</date>
+        <time>11.00</time>
+        <status>Completed</status>
+        <description>Root canal procedure on lower molar.</description>
+    </Appointment>
+    <Appointment>
+        <id>6</id>
+        <patientId>104</patientId>
+        <date>12.01.2026</date>
+        <time>08.00</time>
+        <status>Confirmed</status>
+        <description>Initial aesthetic dentistry consultation.</description>
+    </Appointment>
+    <Appointment>
+        <id>7</id>
+        <patientId>105</patientId>
+        <date>20.12.2025</date>
+        <time>15.00</time>
+        <status>Confirmed</status>
+        <description>Annual review and x-rays.</description>
+    </Appointment>
+    <Appointment>
+        <id>8</id>
+        <patientId>106</patientId>
+        <date>01.01.2026</date>
+        <time>12.00</time>
+        <status>Pending</status>
+        <description>Teeth whitening procedure.</description>
+    </Appointment>
+    <Appointment>
+        <id>9</id>
+        <patientId>107</patientId>
+        <date>28.11.2025</date>
+        <time>17.00</time>
+        <status>Confirmed</status>
+        <description>Emergency filling repair.</description>
+    </Appointment>
+    <Appointment>
+        <id>10</id>
+        <patientId>108</patientId>
+        <date>03.02.2026</date>
+        <time>13.00</time>
+        <status>Cancelled</status>
+        <description>Gum disease consultation.</description>
+    </Appointment>
+</appointments>

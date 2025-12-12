@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<patients>
+    <Patient>
+        <id>1</id>
+        <name>XML :))</name>
+        <phone>0732124321</phone>
+        <email>john@gmail.com</email>
+    </Patient>
+    <Patient>
+        <id>2</id>
+        <name>Dan Lean</name>
+        <phone>07213132</phone>
+        <email>dan@gmail.com</email>
+    </Patient>
+    <Patient>
+        <id>101</id>
+        <name>Alex Ward</name>
+        <phone>07654331415</phone>
+        <email>alex.ward@example.com</email>
+    </Patient>
+    <Patient>
+        <id>102</id>
+        <name>Sarah Connor</name>
+        <phone>0788991234</phone>
+        <email>sconnor@example.com</email>
+    </Patient>
+    <Patient>
+        <id>103</id>
+        <name>George Miller</name>
+        <phone>0711223344</phone>
+        <email>g.miller@example.com</email>
+    </Patient>
+    <Patient>
+        <id>104</id>
+        <name>Elena Petrescu</name>
+        <phone>0799887766</phone>
+        <email>elena.p@example.com</email>
+    </Patient>
+    <Patient>
+        <id>105</id>
+        <name>Michael Breen</name>
+        <phone>0745566778</phone>
+        <email>mbreen@example.com</email>
+    </Patient>
+    <Patient>
+        <id>106</id>
+        <name>Laura Vance</name>
+        <phone>0755443322</phone>
+        <email>laura.v@example.com</email>
+    </Patient>
+    <Patient>
+        <id>107</id>
+        <name>Victor Negulescu</name>
+        <phone>0777112233</phone>
+        <email>victor.n@example.com</email>
+    </Patient>
+    <Patient>
+        <id>108</id>
+        <name>Oana Pop</name>
+        <phone>0722334455</phone>
+        <email>oana.pop@example.com</email>
+    </Patient>
+</patients>
